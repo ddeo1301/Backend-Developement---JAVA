@@ -73,3 +73,10 @@ THIS KEYWORD
  SUPER KEYWORD
 
 - use to refer parent class when we are working with objects
+- super() is used to call a superclass constructor, method, field
+- super must be the first statement in a derived class constructor
+- super cannot be used in static context such as static method or static variable initializer
+
+- super with variables ... super.speed() then parent class wla call hga 
+- super with methods ..... super.message() then parent method will be called
+- super with constructor .... super() 
